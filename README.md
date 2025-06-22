@@ -37,6 +37,7 @@ classDiagram
 
 ### 🗂️ Estrutura de Pastas - Projeto ASP.NET Core API
 
+```
 MyProject/
 ├── Controllers/
 │   └── ClienteController.cs
@@ -56,6 +57,7 @@ MyProject/
 ├── appsettings.json
 ├── Program.cs
 └── Startup.cs
+```
 
 ### 📘 Explicação dos Componentes
 
@@ -73,10 +75,10 @@ MyProject/
 
 ### ✅ Endpoints REST Esperados
 
-GET /clientes → Lista todos os clientes
-GET /clientes/{id} → Busca cliente por ID
-GET /clientes/nome/{nome} → Busca cliente pelo nome
-GET /clientes/contar → Conta total de clientes
-POST /clientes → Cria novo cliente
-PUT /clientes/{id} → Atualiza cliente
-DELETE /clientes/{id} → Remove cliente
+* GET /clientes → Lista todos os clientes
+* GET /clientes/{id} → Busca cliente por ID
+* GET /clientes/nome/{nome} → Busca cliente pelo nome
+* GET /clientes/contar → Conta total de clientes
+* POST /clientes → Cria novo cliente
+* PUT /clientes/{id} → Atualiza cliente
+* DELETE /clientes/{id} → Remove cliente
