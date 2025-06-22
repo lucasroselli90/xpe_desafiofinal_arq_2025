@@ -9,10 +9,14 @@ graph TD
   C --> D[Repository]
   D --> E[(Banco de Dados)]
 
-  subgraph API ASP.NET Core MVC
+  subgraph API ASP.NET Core -  C#
     B[Controller]
     C[Service]
     D[Repository]
+  end
+
+  subgraph PostgreSQL
+    E[(Banco de Dados)]
   end
 ```
 
