@@ -2,6 +2,7 @@
 
 ###Driagrama de componentes
 
+```mermaid
 graph TD
   A[Usuário (Cliente REST)] -->|HTTP Request| B[Controller]
   B --> C[Service]
@@ -13,3 +14,4 @@ graph TD
     C
     D
   end
+```
