@@ -1,5 +1,4 @@
-# xpe_desafiofinal_arq_2025
-# 📦 Projeto API RESTful - ASP.NET Core (MVC)
+# 📦 Projeto XPE - Desafio final
 
 ## 🧩 Diagrama de Componentes - MVC
 
