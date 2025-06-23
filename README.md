@@ -98,4 +98,4 @@ docker compose build
 docker compose up -d
 ```
 
->> logo em acessar seu brownser [local](https://localhost:5078/swagger).
+>> logo em acessar seu brownser [local](http://localhost:5078/swagger/index.html).
