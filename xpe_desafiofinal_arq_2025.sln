@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xpe_cliente_api", "xpe_cliente_api\xpe_cliente_api.csproj", "{3133F7E4-9B56-2FA0-D9FE-AECF994516C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3133F7E4-9B56-2FA0-D9FE-AECF994516C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3133F7E4-9B56-2FA0-D9FE-AECF994516C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3133F7E4-9B56-2FA0-D9FE-AECF994516C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3133F7E4-9B56-2FA0-D9FE-AECF994516C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D94018B-533E-467B-B784-CDF10585E17B}
+	EndGlobalSection
+EndGlobal
