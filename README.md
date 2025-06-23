@@ -85,3 +85,17 @@ MyProject/
 - `POST /clientes` → Cria novo cliente  
 - `PUT /clientes/{id}` → Atualiza cliente  
 - `DELETE /clientes/{id}` → Remove cliente  
+
+### Para rodar o projeto
+
+## Executar os comandos abaixo no terminal
+
+```
+cd xpe_cliente_api
+
+docker compose build
+
+docker compose up -d
+```
+
+>> logo em acessar seu brownser [local](https://localhost:5078/swagger).
