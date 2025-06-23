@@ -88,7 +88,7 @@ MyProject/
 
 ### Para rodar o projeto
 
-## Executar os comandos abaixo no terminal
+##### Executar os comandos abaixo no terminal
 
 ```
 cd xpe_cliente_api
